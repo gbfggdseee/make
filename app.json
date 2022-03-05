@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/gbfggdseee/make",
+  "repository": "https://github.com/gbfggdseee/make",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
